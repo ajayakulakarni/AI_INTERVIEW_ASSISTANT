@@ -5,4 +5,4 @@ st.set_page_config(page_title='AI Interview Assistant', layout='centered')
 st.title('AI Interview Assistant')
 st.caption('practice interviews with AI-generated questions and constructive feedback.')
 st.caption("lunched by ajay")
-st.write("department of AI&DS
+st.write("department of AI&DS")
