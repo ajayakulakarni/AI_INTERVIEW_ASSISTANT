@@ -8,7 +8,7 @@ st.caption("lunched by ajay")
 st.write("department of AI&DS")
 TRY:
 Client = GROQ(api_key=st.secrets['GREQ_API_KEY'])
-Except (key, FillNotFoundRrror):
+Except (key, FillNotFoundError):
 st.error('GROQ_API_KEY is missing. Add it to streamlit cloud
          st.stop()
          
